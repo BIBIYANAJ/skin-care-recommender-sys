@@ -12,27 +12,31 @@ Users can input the name of a skincare product they're interested in, and the sy
 - ## Top Selling Products:
 The application also showcases the top selling skincare products on Sephora, providing users with additional insights into popular choices.
 
-### Getting Started
+- ### Getting Started
 To run the Sephora Skincare Recommender System locally, follow these steps:
 
-#### 1.Clone the repository:
+- #### 1.Clone the repository:
+To clone the repository, use the following command:
 ```bash
 git clone https://github.com/BIBIYANAJ/skin-care-recommender-sys.git
 ```
-#### 2.Install dependencies:
+- #### 2.Install dependencies:
+```bash
 pip install -r requirements.txt
-#### 3.Run the Streamlit app:
+```
+- #### 3.Run the Streamlit app:
+```bash
 streamlit run app.py
-
-### Usage
+```
+- ### Usage
 Enter the name of a skincare product in the search box to get personalized recommendations.
 Click the "Recommend" button to view the recommendations.
 Explore the top selling products on Sephora in the "Top selling products" section.
 
-### References
+- ### References
 
 Jupyter Notebook
 
-### Author
+- ### Author
 
 Bibiyana J
