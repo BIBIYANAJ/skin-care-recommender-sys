@@ -35,7 +35,8 @@ Explore the top selling products on Sephora in the "Top selling products" sectio
 
 - ### References
 
-Jupyter Notebook
+<font color='blue'>[Jupyter Notebook](https://jupyter.org/)</font>
+
 
 - ### Author
 
