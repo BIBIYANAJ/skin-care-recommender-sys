@@ -16,8 +16,9 @@ The application also showcases the top selling skincare products on Sephora, pro
 To run the Sephora Skincare Recommender System locally, follow these steps:
 
 #### 1.Clone the repository:
- ```bash
+```bash
 git clone https://github.com/BIBIYANAJ/skin-care-recommender-sys.git
+```
 #### 2.Install dependencies:
 pip install -r requirements.txt
 #### 3.Run the Streamlit app:
