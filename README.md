@@ -1,4 +1,6 @@
 # Sephora Skincare Recommender System
+![Screenshot 2024-03-01 154624](https://github.com/BIBIYANAJ/skin-care-recommender-sys/assets/126191304/4a1cd22d-a230-46a9-860f-a8211372f8d3)
+
 The Sephora Skincare Recommender System is a Streamlit-based web application designed to help users discover personalized skincare products from Sephora's extensive collection. This recommendation system utilizes collaborative filtering techniques to suggest products that are similar to those the user has shown interest in.
 Features
 Personalized Recommendations: Users can input the name of a skincare product they're interested in, and the system will provide recommendations based on similarity to that product.
