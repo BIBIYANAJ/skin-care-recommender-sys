@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-- ### Usage
+### Usage
 Enter the name of a skincare product in the search box to get personalized recommendations.
 Click the "Recommend" button to view the recommendations.
 Explore the top selling products on Sephora in the "Top selling products" section.
